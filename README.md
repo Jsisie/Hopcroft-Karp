@@ -31,9 +31,9 @@ Notes that it's easier to use the program in an IDE such as IntelliJ IDEA, but i
 
 ## Mean times :
 
-Here's the mean time processed for some graphs example :
+Here's the mean time processed for some graphs example : 
 (the mean time has been processed on 10 launches of the program)
 
-g1.gr : 15.1 ms
-g14.gr : 14.5 s
-g15.gr : 14.7 s
+- g1.gr : 15.1 ms
+- g14.gr : 14.5 s
+- g15.gr : 14.7 s
