@@ -5,8 +5,11 @@ by : Léo Barroux - INFO2 - Gr.1
 ## Intro :
 
 The main method processing the algorithm is in the file Graphs.java, and is implemented at the top of the file.
+
 The file Graphs.java also contains the two algorithms levelBFS and levelDFS, and some others methods.
+
 All these methods are tested in the file HopcroftKarpTest.java
+
 The methods created for the previous TPs in AdjGraph, Graphs and Edge useless for this algorithm have all been removed.
 
 
